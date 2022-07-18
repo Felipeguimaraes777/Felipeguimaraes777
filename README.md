@@ -20,7 +20,7 @@
 </br>
 
 <div align="right">
-    <img align="left" alt="gif"  height="200" width="300" src="https://i.gifer.com/origin/58/58900feee180210334de854c6d148bcb_w200.webp" alt="">
+    <img align="left" alt="gif"  height="250" width="250" src="https://i.gifer.com/origin/9b/9b771f9ff142fe01258dcedbe228c031_w200.webp" alt="">
 </div>
  
 <h3>Contatos:</h3>
