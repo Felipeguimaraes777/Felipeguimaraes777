@@ -21,10 +21,12 @@
 
 <h3>Contatos:</h3>
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="35" width="35"><br><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank">Linkedin</a><br>
-    <img src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="40" width="40"><br><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank">Instagram</a><br>
-    <img src="https://img.icons8.com/color/344/facebook-circled--v5.png" alt="" height="40" width="40"><br><a href="https://www.facebook.com/profile.php?id=100080336079335" target="_blank">Facebook</a><br>
-    <img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="" height="40" width="40"><br><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank">Whatsapp</a>
+    <ul>  
+      <li><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="35" width="35"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank"><strong>Linkedin</strong></a></li>
+      <li><img src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="40" width="40"><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank"><strong>Instagram</strong></a></li>
+      <li><img src="https://img.icons8.com/color/344/facebook-circled--v5.png" alt="" height="40" width="40"><a href="https://www.facebook.com/profile.php?id=100080336079335" target="_blank"><strong>Facebook</strong></a></li>
+      <li><img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="" height="40" width="40"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank"><strong>Whatsapp</strong></a></li>
+    </ul>
   </div>
  
  <div>
