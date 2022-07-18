@@ -19,8 +19,12 @@
 </div>
 </br>
 
+<div align="right">
+    <img align="left" alt="gif"  height="200" width="300" src="https://i.gifer.com/origin/58/58900feee180210334de854c6d148bcb_w200.webp" alt="">
+</div>
+ 
 <h3>Contatos:</h3>
-<div>
+<div style="display: inline_block">
     <ul>  
       <li><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="35" width="35"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank"><strong>Linkedin</strong></a></li>
       <li><img src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="40" width="40"><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank"><strong>Instagram</strong></a></li>
@@ -28,7 +32,7 @@
       <li><img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="" height="40" width="40"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank"><strong>Whatsapp</strong></a></li>
     </ul>
   </div>
- 
+  
  <div>
    <h2>Comits:</h2>
  </div>
