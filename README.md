@@ -20,12 +20,12 @@
 </br>
 
 <h3>Contatos:</h3>
-<div><br>
-  <a src="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target:_blank><img align="center" alt="linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">Linkedin</a><br>
-  <a src="https://www.instagram.com/felipe_guima_ofc/" target:_blan><img align="center" alt="instagram" height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1658119895~hmac=36f76474b34e027cbd2dba4fbe6ad9b5">Instagram</a><br>
-  <a src="https://www.facebook.com/profile.php?id=100080336079335" target:_blan><img align="center" alt="facebook" height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955011.png?token=exp=1658120758~hmac=636e439d6f977a02750c664f088d3fca">Facebook</a><br>
-  <a src="https://api.whatsapp.com/send?phone=5511960844667" target:_blan><img align="center" alt="whatsapp" height="40" width="40" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494494.png?token=exp=1658120894~hmac=2fd5586fdbf991d2b228ed15b7f64f1f">Whatsapp</a>
-</div>
+<div>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="35" width="35"><a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-148468232/" target="_blank">Linkedin</a><br>
+    <img src="https://img.icons8.com/fluency/2x/instagram-new.png" alt="" height="40" width="40"><a href="https://www.instagram.com/felipe_guima_ofc/" target="_blank">Instagram</a><br>
+    <img src="https://img.icons8.com/color/344/facebook-circled--v5.png" alt="" height="40" width="40"><a href="https://www.facebook.com/profile.php?id=100080336079335" target="_blank">Facebook</a><br>
+    <img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="" height="40" width="40"><a href="https://api.whatsapp.com/send?phone=5511960844667" target="_blank">Whatsapp</a>
+  </div>
  
  <div>
    <h2>Comits:</h2>
