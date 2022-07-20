@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bem vindo(a) ao meu portifólio!</h1>
+  <h1>Bem vindo(a) ao meu portifólio no github!</h1>
   <p><strong>Sou um estudante focado na área de desenvolvimento web.</strong></p>
   <p>"O hoje vai ser melhor do que ontem, e amanhã vai ser melhor do que hoje"</p>
   
